@@ -1,0 +1,63 @@
+dn: cn=user01,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: SP
+sn: Bar1
+
+dn: cn=user02,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: RJ
+sn: Bar2
+
+dn: cn=user03,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: RJ
+sn: Bar3
+
+dn: cn=user04,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: SP
+sn: Bar4
+
+dn: cn=user05,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: PE
+sn: Bar5
+
+dn: cn=user06,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: PE
+sn: Bar6
+
+dn: cn=user07,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: PR
+sn: Bar7
+
+dn: cn=user08,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: SP
+sn: Bar8
+
+dn: cn=user09,ou=users,dc=example,dc=org
+changetype: modify
+add: st
+add: sn
+st: MG
+sn: Bar9
+
