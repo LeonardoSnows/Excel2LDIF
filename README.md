@@ -21,7 +21,7 @@ Ele lê informações de um arquivo Excel, realiza requisições a uma API de CE
 # Configuracoes
 1.Clone o repositório:
 ``` sh 
-  git clone [https://github.com/seu-usuario/.git](https://github.com/LeonardoSnows/Excel2LDIF.git)
+  git clone https://github.com/LeonardoSnows/Excel2LDIF.git
 ```
 
 2.Configure o arquivo application.properties: No diretório src/main/resources, configure o arquivo application.properties com as seguintes informações:
